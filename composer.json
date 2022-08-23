@@ -1,0 +1,19 @@
+{
+    "name": "cgalvaojr/xogito-api",
+    "description": "This project was created for the Xogito test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Xogito\\Infrastructure\\": "src/Infraestructure"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ciro Galvao",
+            "email": "ciro.galvao@outlook.com"
+        }
+    ],
+    "require": {
+        "pecee/simple-router": "4.3.7.2"
+    }
+}
