@@ -4,7 +4,9 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Xogito\\Infrastructure\\": "src/Infraestructure"
+            "Xogito\\Infrastructure\\": "src/Infraestructure",
+            "Xogito\\Application\\": "src/Application",
+            "Xogito\\Domain\\": "src/Domain"
         }
     },
     "authors": [
