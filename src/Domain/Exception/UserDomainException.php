@@ -2,7 +2,7 @@
 
 namespace Domain\User\Exception;
 
-class UserException extends \Exception
+class UserDomainException extends \Exception
 {
 
 }

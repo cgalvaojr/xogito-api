@@ -19,4 +19,14 @@ class User implements UserRepositoryInterface
     {
         // TODO: Implement update() method.
     }
+
+    public function fetch(int $userId): User
+    {
+        // TODO: Implement fetch() method.
+    }
+
+    public function fetchAll(): User
+    {
+        // TODO: Implement fetchAll() method.
+    }
 }
